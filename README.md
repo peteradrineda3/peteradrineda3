@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello!
+
+I'm currently a second year CS student studying at the University of Bath.
+Interested in learning about literally anything!
 
 <!--
 **peteradrineda3/peteradrineda3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
