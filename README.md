@@ -3,6 +3,12 @@
 I'm currently a second year CS student studying at the University of Bath.
 Interested in learning about literally anything!
 
+## Current projects
+- [Small Evolution Simulator](https://github.com/peteradrineda3/Small-Evolution-Simulator)
+  - Lightweight evolution simulator, currently runs completely in the terminal!
+- [Character Handwriting Predictor](http://github.com/peteradrineda3/Character-Handwriting-Predictor)
+  - Predicts what letter or number you write!
+- Survivors-like game in Godot!
 <!--
 **peteradrineda3/peteradrineda3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
